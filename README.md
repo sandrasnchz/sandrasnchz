@@ -2,4 +2,3 @@
 
 - 🔭 I’m currently working on my Master's Thesis
 - 🌱 I’m currently learning more about bioinformatics workflows and genomics
-- 📫 Feel free to connect with me on GitHub
